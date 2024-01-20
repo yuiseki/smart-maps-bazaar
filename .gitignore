@@ -1,2 +1,4 @@
 /tmp/*
 !/tmp/.gitkeep
+!/tmp/data/.gitkeep
+!/tmp/staging/.gitkeep
